@@ -1,0 +1,12 @@
+Test case to be considered.
+
+1. In shop tab, When user press buy, that item is exptected to be added to cart with correct price
+2. In cart tab, expected to display all items user wants to buy
+3. In cart tab, user can edit quantity, and receive correct total price
+4. In cart tab, user can delete  an item, and total price is reflected accordingly
+5. In cart tab, user press empty cart, able to delete all item in cart, and start shopping button redirection is shown
+6. In cart tab, if cart is empty, expect to show message your cart is empty, and start shopping button
+7. In cart tab, user press check out, exprect to redirect iser to checkout page
+8. In menu tab, user click shop tab, expect to redirect user to shopping page
+9. In check out page, expect form to validate required filed before submit
+10. In check out page, when user fill in valid info and press pay, expected to process payment and if sucess, return a purchase receipt number for user
